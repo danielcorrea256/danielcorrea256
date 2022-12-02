@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Daniel Fernando
+
+- I'm currently working as a DevSecOps Engineer at Tiresia
+- I like to learn about algorithms and math
+- Could reach me at [linkedin](https://www.linkedin.com/in/danielcorrea256/) 
 
 <!--
 **fernandocorrea256/fernandocorrea256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
