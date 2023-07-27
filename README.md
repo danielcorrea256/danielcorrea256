@@ -1,7 +1,5 @@
-### Hi there 👋, I am Daniel Fernando
-
-- I'm currently working as a DevSecOps Engineer at Tiresia
-- I like to learn about algorithms and math
+### I am Daniel Fernando
+- Computer Science Student
 - Could reach me at [linkedin](https://www.linkedin.com/in/danielcorrea256/) 
 
 <!--
