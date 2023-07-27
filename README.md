@@ -1,4 +1,4 @@
-### I am Daniel Fernando
+### I am Daniel Correa
 - Computer Science Student
 - Could reach me at [linkedin](https://www.linkedin.com/in/danielcorrea256/) 
 
